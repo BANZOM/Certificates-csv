@@ -13,7 +13,7 @@ def extract_certificate_info(li_element):
     """
     try:
         name_element = li_element.find('span', {'aria-hidden': 'true'}, recursive=True)
-        certificate_name = name_element.text.strip() if name_element else None
+        certificate_name = ' '.join(name_element.text.strip().split()) if name_element else None
         
         link_element = li_element.find('a', {
             'class': 'optional-action-target-wrapper',
@@ -22,10 +22,10 @@ def extract_certificate_info(li_element):
         certificate_link = link_element.get('href') if link_element else None
         
         org_element = li_element.find('span', {'class': 't-14 t-normal'})
-        organization = org_element.text.strip() if org_element else None
+        organization = ' '.join(org_element.text.strip().split()) if org_element else None
         
-        date_element = li_element.find('span', {'class': 't-14 t-normal t-black--light'})
-        issue_date = date_element.text.strip() if date_element else None
+        date_element = li_element.find('span', {'class': 'pvs-entity__caption-wrapper'})
+        issue_date = ' '.join(date_element.text.strip().split()) if date_element else None
         
         return {
             'name': certificate_name,
