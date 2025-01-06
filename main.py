@@ -21,7 +21,7 @@ def extract_certificate_info(li_element):
         })
         certificate_link = link_element.get('href') if link_element else None
         
-        org_element = li_element.find('span', {'class': 't-14 t-normal'})
+        org_element = li_element.find('span', {'class': 't-14 t-normal'}).find('span', recursive=False)
         organization = ' '.join(org_element.text.strip().split()) if org_element else None
         
         date_element = li_element.find('span', {'class': 'pvs-entity__caption-wrapper'})
