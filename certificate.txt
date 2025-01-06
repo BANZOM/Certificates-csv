@@ -1,0 +1,4013 @@
+<ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw " tabindex="-1">
+
+
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-2">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3076"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/132603336f3061853ce4f393206cba8aca6fc53c5261142fc033c94d9440fa96">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Continuous Integration/Continuous Delivery
+                                                (CI/CD) with Jenkins<!----></span><span
+                                                class="visually-hidden"><!---->Continuous Integration/Continuous
+                                                Delivery (CI/CD) with Jenkins<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Sep
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Sep 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Continuous Integration/Continuous Delivery (CI/CD) with Jenkins"
+                                            aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/132603336f3061853ce4f393206cba8aca6fc53c5261142fc033c94d9440fa96">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Jenkins · Continuous
+                                                            Integration and Continuous Delivery
+                                                            (CI/CD)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Jenkins · Continuous
+                                                            Integration and Continuous Delivery (CI/CD)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592606%29&amp;trackingId=JbWN%2BxITS%2Bq2801u7F0ngg%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Continuous Integration/Continuous Delivery (CI/CD) with Jenkins"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-3">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3083"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/7b64a38423ab675e054ccb5b060432824e31ba00641595155a4d9ac71c6b9823">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Elasticsearch Essential
+                                                Training<!----></span><span class="visually-hidden"><!---->Elasticsearch
+                                                Essential Training<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Sep
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Sep 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Elasticsearch Essential Training" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/7b64a38423ab675e054ccb5b060432824e31ba00641595155a4d9ac71c6b9823">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>Elasticsearch<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>Elasticsearch<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592607%29&amp;trackingId=cPzNoXSGQEGSFdH0gwzGug%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Elasticsearch Essential Training"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-4">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3090"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/9718df70d7c04cc06b7f71d7f37ef8bedb7b3691738d33c13c67ce7149949cdf">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Redis Essential Training<!----></span><span
+                                                class="visually-hidden"><!---->Redis Essential Training<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Sep
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Sep 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Redis Essential Training" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/9718df70d7c04cc06b7f71d7f37ef8bedb7b3691738d33c13c67ce7149949cdf">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Redis<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Redis<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592604%29&amp;trackingId=Zf7leHsRTCW106flFDvIXg%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Redis Essential Training"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-5">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3097"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/0477496f980503c225bb88bc8c5122c9aad623eb016c5eaa2345f8966b71c280">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Running Jenkins on AWS<!----></span><span
+                                                class="visually-hidden"><!---->Running Jenkins on AWS<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Sep
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Sep 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Running Jenkins on AWS" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/0477496f980503c225bb88bc8c5122c9aad623eb016c5eaa2345f8966b71c280">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Jenkins · Amazon Web
+                                                            Services (AWS)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Jenkins · Amazon Web
+                                                            Services (AWS)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592605%29&amp;trackingId=6XTlmpLBQKW4GLmyOSA40A%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Running Jenkins on AWS"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-6">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/2382910/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQER_QnUTXrPJw/company-logo_100_100/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1744243200&amp;v=beta&amp;t=ejrppTBv5Af_sD38cu-RSAMTeLEww6dhPUpALtmjELA"
+                                    loading="lazy" height="48" alt="Amazon Web Services (AWS) logo" id="ember3104"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.credly.com/badges/3a1b99f8-cd05-4539-8655-049b60ae015f/linked_in_profile">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->AWS Academy Graduate - AWS Academy Cloud
+                                                Foundations<!----></span><span class="visually-hidden"><!---->AWS
+                                                Academy Graduate - AWS Academy Cloud Foundations<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Amazon Web Services (AWS)<!----></span><span
+                                    class="visually-hidden"><!---->Amazon Web Services (AWS)<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Aug
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Aug 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for AWS Academy Graduate - AWS Academy Cloud Foundations"
+                                            aria-hidden="false"
+                                            href="https://www.credly.com/badges/3a1b99f8-cd05-4539-8655-049b60ae015f/linked_in_profile">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Amazon Web Services
+                                                            (AWS)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Amazon Web Services
+                                                            (AWS)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1723726336358/single-media-viewer?type=IMAGE&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for aws-academy-graduate-aws-academy-cloud-foundations.png">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQHM__gJpBQWPw/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1723726324241?e=1736762400&amp;v=beta&amp;t=Fc7mFzJdtSKDuuM7h7X0EcQLiGdIfZ6KJK9NnkW_rYY"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3110"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->aws-academy-graduate-aws-academy-cloud-foundations.png<!----></span><span
+                                                                class="visually-hidden"><!---->aws-academy-graduate-aws-academy-cloud-foundations.png<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1444449106%29&amp;trackingId=igdldrxtQROgbElTYttbMQ%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification AWS Academy Graduate - AWS Academy Cloud Foundations"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-7">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/2382910/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQER_QnUTXrPJw/company-logo_100_100/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1744243200&amp;v=beta&amp;t=ejrppTBv5Af_sD38cu-RSAMTeLEww6dhPUpALtmjELA"
+                                    loading="lazy" height="48" alt="Amazon Web Services (AWS) logo" id="ember3115"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <div class="
+              display-flex flex-column full-width">
+
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 t-bold">
+                                            <span aria-hidden="true"><!---->AWS Cloud Practitioner Essentials<span
+                                                    class="white-space-pre"> </span></span><span
+                                                class="visually-hidden"><!---->AWS Cloud Practitioner Essentials<span
+                                                    class="white-space-pre"> </span></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Amazon Web Services (AWS)<!----></span><span
+                                    class="visually-hidden"><!---->Amazon Web Services (AWS)<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Aug
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Aug 2024<!----></span>
+                            </span>
+                            <!---->
+                        </div>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · Amazon
+                                                            Web Services (AWS)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · Amazon
+                                                            Web Services (AWS)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1725356838985/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for Certificate">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D4E2DAQEw3-Cz6wSiZw/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1725356810260?e=1736762400&amp;v=beta&amp;t=VucrduflIW1hQ6MpgAjjkupzgzZM-DqqZ93vtt7AdDs"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3120"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->Certificate<!----></span><span
+                                                                class="visually-hidden"><!---->Certificate<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C927466321%29&amp;trackingId=LpNrgazfTMq%2Fu9fhXfAuvg%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification AWS Cloud Practitioner Essentials "
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-8">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/13425355/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/D4E0BAQFLraHojJVQhA/company-logo_100_100/company-logo_100_100/0/1728915497369/efset_logo?e=1744243200&amp;v=beta&amp;t=HyQl-qwN2rzCQc1v3f5-jkiVoXNIXjx6dQ69OwIkBDQ"
+                                    loading="lazy" height="48" alt="EF SET logo" id="ember3125"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://cert.efset.org/c9Lk6z">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->EF SET English Certificate 64/100 (C1
+                                                Advanced) - 90 Minutes<!----></span><span
+                                                class="visually-hidden"><!---->EF SET English Certificate 64/100 (C1
+                                                Advanced) - 90 Minutes<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->EF SET<!----></span><span
+                                    class="visually-hidden"><!---->EF SET<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jul
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jul 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for EF SET English Certificate 64/100 (C1 Advanced) - 90 Minutes"
+                                            aria-hidden="false" href="https://cert.efset.org/c9Lk6z">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1721853350013/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for Certificate">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQEqlZXpk7CVRA/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1721853338436?e=1736762400&amp;v=beta&amp;t=7Hph0GJqPhYnUBqecmMTZWDM0JS9My1-FRk1P8yNEO0"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3130"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->Certificate<!----></span><span
+                                                                class="visually-hidden"><!---->Certificate<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1718946088%29&amp;trackingId=IZxTaVbbQvaTYNPdNTLKeg%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification EF SET English Certificate 64/100 (C1 Advanced) - 90 Minutes"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-9">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/13425355/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/D4E0BAQFLraHojJVQhA/company-logo_100_100/company-logo_100_100/0/1728915497369/efset_logo?e=1744243200&amp;v=beta&amp;t=HyQl-qwN2rzCQc1v3f5-jkiVoXNIXjx6dQ69OwIkBDQ"
+                                    loading="lazy" height="48" alt="EF SET logo" id="ember3135"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://cert.efset.org/c9Lk6z">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->EF SET English Certificate 65/100 (C1
+                                                Advanced) - 50 Minutes<!----></span><span
+                                                class="visually-hidden"><!---->EF SET English Certificate 65/100 (C1
+                                                Advanced) - 50 Minutes<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->EF SET<!----></span><span
+                                    class="visually-hidden"><!---->EF SET<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jul
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jul 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for EF SET English Certificate 65/100 (C1 Advanced) - 50 Minutes"
+                                            aria-hidden="false" href="https://cert.efset.org/c9Lk6z">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>English<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>English<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1721848691263/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for Certificate">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQFYP2y2h-izDg/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1721848675843?e=1736762400&amp;v=beta&amp;t=ZlSksFWJ3F7dcG1rMk1jbL0Y8haq2-Swj7zc4RbIrKE"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3141"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->Certificate<!----></span><span
+                                                                class="visually-hidden"><!---->Certificate<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1714287346%29&amp;trackingId=tnJAUvhXQLikb9C4AmqO0A%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification EF SET English Certificate 65/100 (C1 Advanced) - 50 Minutes"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-10">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3146"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/2c5da0779e5242df2d981772b0b590bf2daa4038aee0cd1712203bd8dae28ae3">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Jenkins Essential
+                                                Training<!----></span><span class="visually-hidden"><!---->Jenkins
+                                                Essential Training<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jul
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jul 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Jenkins Essential Training" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/2c5da0779e5242df2d981772b0b590bf2daa4038aee0cd1712203bd8dae28ae3">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>Jenkins<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Jenkins<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592603%29&amp;trackingId=0E55JwneReeSwiERzMGPcw%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Jenkins Essential Training"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-11">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1028/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=1744243200&amp;v=beta&amp;t=KjW-WnAjYKAib-nHi9D0wHNbEAliUI8_YEPsGjGjYtc"
+                                    loading="lazy" height="48" alt="Oracle logo" id="ember3153"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://media.licdn.com/dms/document/media/D4D1FAQGknNm7HQGNiw/feedshare-document-pdf-analyzed/0/1721663205453?e=1722470400&amp;v=beta&amp;t=dvLL8UuJzSD6GltwM0mMFkqx5GM8GIx768GXLYJhbAw">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Oracle Cloud Infrastructure 2024 Generative
+                                                AI Certified Professional<!----></span><span
+                                                class="visually-hidden"><!---->Oracle Cloud Infrastructure 2024
+                                                Generative AI Certified Professional<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Oracle<!----></span><span
+                                    class="visually-hidden"><!---->Oracle<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jul
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jul 2024<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span aria-hidden="true"><!---->Credential ID 312775363OCI2024GAIOCP<!----></span><span
+                                    class="visually-hidden"><!---->Credential ID 312775363OCI2024GAIOCP<!----></span>
+                            </span>
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Oracle Cloud Infrastructure 2024 Generative AI Certified Professional"
+                                            aria-hidden="false"
+                                            href="https://media.licdn.com/dms/document/media/D4D1FAQGknNm7HQGNiw/feedshare-document-pdf-analyzed/0/1721663205453?e=1722470400&amp;v=beta&amp;t=dvLL8UuJzSD6GltwM0mMFkqx5GM8GIx768GXLYJhbAw">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing ·
+                                                            Generative AI<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing ·
+                                                            Generative AI<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1532478096%29&amp;trackingId=y1%2FmsAmkQeaJso9G3mCLGQ%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Oracle Cloud Infrastructure 2024 Generative AI Certified Professional"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-12">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3160"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/e691f2cfca71f28aafd25d24f54f00acea38bf931f64074917c2e96f75c1a35e">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Creating Your First Spring Boot
+                                                Microservice<!----></span><span class="visually-hidden"><!---->Creating
+                                                Your First Spring Boot Microservice<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jun
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jun 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Creating Your First Spring Boot Microservice"
+                                            aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/e691f2cfca71f28aafd25d24f54f00acea38bf931f64074917c2e96f75c1a35e">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>Microservices<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre">
+                                                            </span>Microservices<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592602%29&amp;trackingId=MGModc6bTzSm9faxLV%2FJVg%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Creating Your First Spring Boot Microservice"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-13">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/82352122/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQEhy0vU_syWMA/company-logo_100_100/company-logo_100_100/0/1658136058977/infosys_springboard_logo?e=1744243200&amp;v=beta&amp;t=YKJy_rZHlVDOF3djN8XhGKMudZBa7oC9hUi7k8IZYuM"
+                                    loading="lazy" height="48" alt="Infosys Springboard logo" id="ember3167"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <div class="
+              display-flex flex-column full-width">
+
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 t-bold">
+                                            <span aria-hidden="true"><!---->Cloud-Native Continous Integration and
+                                                Delivery<!----></span><span class="visually-hidden"><!---->Cloud-Native
+                                                Continous Integration and Delivery<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Infosys Springboard<!----></span><span
+                                    class="visually-hidden"><!---->Infosys Springboard<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued May
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued May 2024<!----></span>
+                            </span>
+                            <!---->
+                        </div>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Continuous Integration and Continuous Delivery
+                                                            (CI/CD)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Continuous Integration and Continuous Delivery
+                                                            (CI/CD)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1715348251152/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for Cloud-Native Continous Integration and Delivery">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQEkEQMzrE3tZQ/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1715348200552?e=1736762400&amp;v=beta&amp;t=rAhzZdXntlnP3Kxjq5XlrvCB8ZDPHD38w1Cep8vLqE0"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3172"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span aria-hidden="true"><!---->Cloud-Native Continous
+                                                                Integration and Delivery<!----></span><span
+                                                                class="visually-hidden"><!---->Cloud-Native Continous
+                                                                Integration and Delivery<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1656297640%29&amp;trackingId=rXbRqxqCTYKqxpe5dSqRdA%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Cloud-Native Continous Integration and Delivery"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-14">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/82352122/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQEhy0vU_syWMA/company-logo_100_100/company-logo_100_100/0/1658136058977/infosys_springboard_logo?e=1744243200&amp;v=beta&amp;t=YKJy_rZHlVDOF3djN8XhGKMudZBa7oC9hUi7k8IZYuM"
+                                    loading="lazy" height="48" alt="Infosys Springboard logo" id="ember3177"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <div class="
+              display-flex flex-column full-width">
+
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 t-bold">
+                                            <span aria-hidden="true"><!---->Creating Continuous Deployment Pipeline for
+                                                Cloud Platforms<!----></span><span
+                                                class="visually-hidden"><!---->Creating Continuous Deployment Pipeline
+                                                for Cloud Platforms<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Infosys Springboard<!----></span><span
+                                    class="visually-hidden"><!---->Infosys Springboard<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued May
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued May 2024<!----></span>
+                            </span>
+                            <!---->
+                        </div>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Continuous Integration and Continuous Delivery
+                                                            (CI/CD)<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Continuous Integration and Continuous Delivery
+                                                            (CI/CD)<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1715348150183/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for Creating Continuous Deployment Pipeline for Cloud Platforms">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQF10k1i4vYb6w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1715348100124?e=1736762400&amp;v=beta&amp;t=fJXap67oQl_IFDGAUlD_WDyB3Ewq6ipsMvWCPjXfIF0"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3182"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span aria-hidden="true"><!---->Creating Continuous
+                                                                Deployment Pipeline for Cloud
+                                                                Platforms<!----></span><span
+                                                                class="visually-hidden"><!---->Creating Continuous
+                                                                Deployment Pipeline for Cloud Platforms<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1656197321%29&amp;trackingId=fUpS0X%2F9SQyndfk5C6HR5Q%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Creating Continuous Deployment Pipeline for Cloud Platforms"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-15">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3187"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/b16220950716bbeaced2c6ffe8cbabf023cf88715268457be382f50f1456fcdb">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Learning Spring 6 with Spring Boot
+                                                3<!----></span><span class="visually-hidden"><!---->Learning Spring 6
+                                                with Spring Boot 3<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued May
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued May 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Learning Spring 6 with Spring Boot 3" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/b16220950716bbeaced2c6ffe8cbabf023cf88715268457be382f50f1456fcdb">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Spring Framework ·
+                                                            Spring Boot<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Spring Framework ·
+                                                            Spring Boot<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592601%29&amp;trackingId=Qifc5wZ4T82sRcY21Qubcw%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Learning Spring 6 with Spring Boot 3"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-16">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/82352122/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQEhy0vU_syWMA/company-logo_100_100/company-logo_100_100/0/1658136058977/infosys_springboard_logo?e=1744243200&amp;v=beta&amp;t=YKJy_rZHlVDOF3djN8XhGKMudZBa7oC9hUi7k8IZYuM"
+                                    loading="lazy" height="48" alt="Infosys Springboard logo" id="ember3194"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <div class="
+              display-flex flex-column full-width">
+
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 t-bold">
+                                            <span aria-hidden="true"><!---->TechA DevOps Engineer
+                                                Certification<!----></span><span class="visually-hidden"><!---->TechA
+                                                DevOps Engineer Certification<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Infosys Springboard<!----></span><span
+                                    class="visually-hidden"><!---->Infosys Springboard<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued May
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued May 2024<!----></span>
+                            </span>
+                            <!---->
+                        </div>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Agile Methodologies · Continuous Integration and
+                                                            Continuous Delivery (CI/CD) ·
+                                                            Containerization<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · DevOps
+                                                            · Agile Methodologies · Continuous Integration and
+                                                            Continuous Delivery (CI/CD) · Containerization<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1715414217518/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for TechA-DevOps-Engineer-Certification.pdf">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQEFMFs6jAdqAg/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1715414184822?e=1736762400&amp;v=beta&amp;t=UqmexNdtzchUbNyx9y7G-OshAf0b6X2o3n3lDzXRUkQ"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3199"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->TechA-DevOps-Engineer-Certification.pdf<!----></span><span
+                                                                class="visually-hidden"><!---->TechA-DevOps-Engineer-Certification.pdf<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1722264080%29&amp;trackingId=bjP2PNEuTHuNRFRxyLn7Rw%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification TechA DevOps Engineer Certification"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-17">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/82352122/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQEhy0vU_syWMA/company-logo_100_100/company-logo_100_100/0/1658136058977/infosys_springboard_logo?e=1744243200&amp;v=beta&amp;t=YKJy_rZHlVDOF3djN8XhGKMudZBa7oC9hUi7k8IZYuM"
+                                    loading="lazy" height="48" alt="Infosys Springboard logo" id="ember3204"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <div class="
+              display-flex flex-column full-width">
+
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 t-bold">
+                                            <span aria-hidden="true"><!---->DevOps with Azure<!----></span><span
+                                                class="visually-hidden"><!---->DevOps with Azure<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->Infosys Springboard<!----></span><span
+                                    class="visually-hidden"><!---->Infosys Springboard<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Mar
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Mar 2024<!----></span>
+                            </span>
+                            <!---->
+                        </div>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · Linux
+                                                            · DevOps · Agile Methodologies · Microsoft Azure ·
+                                                            Git<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Cloud Computing · Linux
+                                                            · DevOps · Agile Methodologies · Microsoft Azure ·
+                                                            Git<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+
+                                            <a class="optional-action-target-wrapper" target="_self"
+                                                href="https://www.linkedin.com/in/adityapanwars/details/certifications/1711360577414/single-media-viewer?type=DOCUMENT&amp;profileId=ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw">
+                                                <div class="display-flex flex-row">
+                                                    <div>
+
+
+                                                        <div class="pvs-thumbnail__wrapper"
+                                                            aria-label="Thumbnail for DevOps-with-Azure-Certificate-Infyspringboard.pdf">
+
+                                                            <figure class="pvs-thumbnail">
+                                                                <img src="https://media.licdn.com/dms/image/v2/D562DAQGNxVF2HzH95w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1711360566096?e=1736762400&amp;v=beta&amp;t=nvh6DUp359R1pP4nHOmzyoiF0ybjUCcarnybGfPAJC0"
+                                                                    loading="lazy" alt="" id="thumbnail-image-ember3209"
+                                                                    class="pvs-thumbnail__image evi-image lazy-image ember-view">
+                                                                <!---->
+                                                                <!---->
+                                                            </figure>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                    <div class="flex-column ml1 align-self-center">
+
+                                                        <div class="hQpfykrMklftIxkzkJNSkAPCLGMuNofTFNQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         t-14 t-bold break-words" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+                                                            <span
+                                                                aria-hidden="true"><!---->DevOps-with-Azure-Certificate-Infyspringboard.pdf<!----></span><span
+                                                                class="visually-hidden"><!---->DevOps-with-Azure-Certificate-Infyspringboard.pdf<!----></span>
+
+                                                            <!---->
+                                                        </div>
+
+
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </a>
+
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1963592600%29&amp;trackingId=Md7r6rauRByAQ8%2FWO%2BzQUQ%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification DevOps with Azure"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-18">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3214"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/2d8d346e2386c35dab40ff4d9a84931a669107e7afb1f8f7e4c88112fcf6b06f">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->jQuery Essential Training<!----></span><span
+                                                class="visually-hidden"><!---->jQuery Essential Training<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Mar
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Mar 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for jQuery Essential Training" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/2d8d346e2386c35dab40ff4d9a84931a669107e7afb1f8f7e4c88112fcf6b06f">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>jQuery ·
+                                                            Java<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>jQuery ·
+                                                            Java<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1795732563%29&amp;trackingId=OhbBQrhtT%2BSGToz4%2FxahtQ%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification jQuery Essential Training"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+    <li class="pvs-list__paged-list-item artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column"
+        id="profilePagedListComponent-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-LICENSES-AND-CERTIFICATIONS-VIEW-DETAILS-profile-ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw-NONE-en-US-19">
+        <div>
+
+
+
+            <!---->
+            <div class="dWmERQpSCOZsivZecIKxhlQVPwDppESQqRFc
+        WjqHdjVtMTCcKJhwRMujrvmqHwlEdmRrlhtuWFY mfXVOCeTSxqbbkuMxmaPHbCXYsstPKqRgLkzJc
+        
+        
+        
+        " data-view-name="profile-component-entity">
+                <div>
+
+                    <a class="optional-action-target-wrapper 
+            
+            display-flex" target="_self" href="https://www.linkedin.com/company/1337/">
+
+                        <div class="ivm-image-view-model  pvs-entity__image ">
+
+                            <div class="ivm-view-attr__img-wrapper
+        
+        ">
+                                <!---->
+                                <!----> <img width="48"
+                                    src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1744243200&amp;v=beta&amp;t=R3fNhxfk7faCsvWXHAt3fPTyaT65KgftP1e_nuJBw1E"
+                                    loading="lazy" height="48" alt="LinkedIn logo" id="ember3221"
+                                    class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+                            </div>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div class="display-flex flex-column align-self-center flex-grow-1">
+                    <div class="display-flex flex-row justify-space-between">
+
+                        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self"
+                            href="https://www.linkedin.com/learning/certificates/0803abf10dc219a232bc697de5703a27547af31402fc7aa3861d5e5fec5d0064">
+                            <div class="display-flex flex-wrap align-items-center full-height">
+
+                                <div class="display-flex ">
+
+                                    <div class="
+          display-flex full-width">
+
+                                        <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+                                            <span aria-hidden="true"><!---->Learning Linux Shell
+                                                Scripting<!----></span><span class="visually-hidden"><!---->Learning
+                                                Linux Shell Scripting<!----></span>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!----><!----><!---->
+                            </div>
+                            <span class="t-14 t-normal">
+                                <span aria-hidden="true"><!---->LinkedIn<!----></span><span
+                                    class="visually-hidden"><!---->LinkedIn<!----></span>
+                            </span>
+                            <span class="t-14 t-normal
+                  t-black--light">
+                                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Issued Jan
+                                    2024<!----></span><span class="visually-hidden"><!---->Issued Jan 2024<!----></span>
+                            </span>
+                            <!---->
+                        </a>
+
+                    </div>
+
+                    <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk pvs-entity__sub-components">
+                        <!---->
+                        <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="pv-action pv-action__padding">
+
+                                    <div>
+
+                                        <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-label="Show credential for Learning Linux Shell Scripting" aria-hidden="false"
+                                            href="https://www.linkedin.com/learning/certificates/0803abf10dc219a232bc697de5703a27547af31402fc7aa3861d5e5fec5d0064">
+                                            <!----> <span class="pvs-navigation__text">
+                                                Show credential
+                                            </span>
+                                            <div class="pvs-navigation__icon">
+                                                <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                                    width="16" height="16" viewBox="0 0 16 16"
+                                                    data-supported-dps="16x16" data-test-icon="link-external-small">
+                                                    <!---->
+                                                    <use href="#link-external-small" width="16" height="16"></use>
+                                                </svg>
+
+                                            </div>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!---->
+                                    <ul class="WrGtEPtdjpCTRLytkdPAqdRhLvpzmTYDkw
+            
+            
+            ">
+                                        <li class="pvs-list__item--with-top-padding UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                            <div class="display-flex ">
+
+                                                <div class="
+          display-flex full-width">
+
+                                                    <div class="display-flex align-items-center
+              t-14 t-normal t-black">
+                                                        <span
+                                                            aria-hidden="true"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Linux System
+                                                            Administration · Cloud Computing · Linux · Shell Scripting ·
+                                                            Git · Containerization<!----></span><span
+                                                            class="visually-hidden"><strong><!---->Skills:<!----></strong><span
+                                                                class="white-space-pre"> </span>Linux System
+                                                            Administration · Cloud Computing · Linux · Shell Scripting ·
+                                                            Git · Containerization<!----></span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+                                    <!---->
+                                </div>
+
+
+                            </li>
+                            <li class="UOqCNiakOEUIUKnnxHMwahVkEKHpjzcxA">
+
+
+                                <div class="qLuKpGwENbrOfPmhwiqcKTjasOcExcHdlemeNk">
+                                    <!----><!----><!---->
+                                </div>
+
+
+                            </li>
+                        </ul>
+                        <!---->
+                    </div>
+
+                </div>
+                <!---->
+                <div class="pvs-entity__action-text-with-no-wrap
+            pvs-entity__action-container">
+
+                    <div class="pv-action ">
+
+                        <div>
+
+                            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--3 artdeco-button--muted artdeco-button--circle
+            inline-flex justify-center align-self-flex-start button-placement-wrap
+            
+            " target="_self" aria-hidden="false" id="navigation-add-edit-deeplink-edit-licenses-and-certifications"
+                                href="https://www.linkedin.com/in/adityapanwars/add-edit/CERTIFICATION/?profileFormEntryPoint=PROFILE_SECTION&amp;entityUrn=urn%3Ali%3Afsd_profileCertification%3A%28ACoAADTzGlkBS2kVTIrV6vGSqIogZGHOLEO0Grw%2C1795732562%29&amp;trackingId=3pmuc%2FoiSKWh9TEIvCx0Kw%3D%3D&amp;desktopBackground=PROFILE_DETAIL_SCREEN">
+                                <div class="pvs-navigation__icon">
+                                    <svg role="img" aria-hidden="false"
+                                        aria-label="Edit certification Learning Linux Shell Scripting"
+                                        xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        data-supported-dps="24x24" data-test-icon="edit-medium">
+                                        <!---->
+                                        <use href="#edit-medium" width="24" height="24"></use>
+                                    </svg>
+
+                                </div>
+                                <!----><!---->
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </li>
+</ul>
